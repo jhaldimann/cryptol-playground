@@ -1,0 +1,11 @@
+// define increment function
+let increment x = x+1
+// define decrement function
+let decrement x = x-1
+
+increment 3
+increment 255
+increment 912
+
+decrement 1
+decrement 4
